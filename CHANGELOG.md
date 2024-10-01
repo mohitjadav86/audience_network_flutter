@@ -1,3 +1,7 @@
+## 0.0.7
+
+- added namespace for android
+
 ## 0.0.6
 
 - update Android & iOS SDK

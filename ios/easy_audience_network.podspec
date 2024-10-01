@@ -3,7 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'easy_audience_network'
-  s.version          = '0.0.6'
+  s.version          = '0.0.7'
   s.summary          = 'Facebook Audience Network plugin for Flutter application'
   s.description      = <<-DESC
 Facebook Audience Network plugin for Flutter application
@@ -15,10 +15,10 @@ Facebook Audience Network plugin for Flutter application
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.dependency 'FBAudienceNetwork', '~> 6.12.0'
+  s.dependency 'FBAudienceNetwork', '~> 6.15.2'
 
   s.static_framework = true
-  s.swift_version = '4.0'
-  s.ios.deployment_target = '9.0'
+  s.swift_version = '5.0'
+  s.ios.deployment_target = '12.0'
 end
 
