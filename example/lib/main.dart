@@ -59,8 +59,9 @@ class AdsPageState extends State<AdsPage> {
     // without getting real ads, I believe it does not work properly on iOS,
     // if you want to get your testingId, don't set any testingId and don't set testMode
     EasyAudienceNetwork.init(
-      // testingId: "b602d594afd2b0b327e07a06f36ca6a7e42546d0",
+      testingId: "b602d594afd2b0b327e07a06f36ca6a7e42546d0",
       testMode: true,
+      iOSAdvertiserTrackingEnabled: true,
     ).then((_) {
       _loadInterstitialAd();
       _loadRewardedVideoAd();
