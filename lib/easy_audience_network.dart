@@ -4,7 +4,7 @@
 /// to provide functionality for Flutter applications.
 ///
 /// Currently only Android platform is supported.
-library easy_audience_network;
+library easy_audience_network_plus;
 
 import 'package:flutter/services.dart';
 

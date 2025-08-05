@@ -1,4 +1,4 @@
-# audience_network
+# easy_audience_network_plus
 ![Pub](https://img.shields.io/pub/v/audience_network.svg) ![GitHub](https://img.shields.io/github/license/dreamsoftin/facebook_audience_network.svg)
 
 Forked from https://github.com/nooralibutt/audience_network_flutter
@@ -156,5 +156,3 @@ NativeAd(
 iOS wrapper code contribution by **lolqplay team from birdgang**
 
 ### Note: Instream video ad has been removed by Facebook. Read more [here](https://www.facebook.com/business/help/645132129564436?id=211412110064838)
-
-

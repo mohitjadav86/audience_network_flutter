@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  easy_audience_network:
+  easy_audience_network_plus:
     path: ../
 
 dev_dependencies:

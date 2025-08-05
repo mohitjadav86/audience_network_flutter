@@ -1,4 +1,4 @@
-import 'package:easy_audience_network/easy_audience_network.dart';
+import 'package:easy_audience_network_plus/easy_audience_network.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(AdExampleApp());

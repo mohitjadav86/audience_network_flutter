@@ -1,4 +1,4 @@
-group 'com.dsi.easy_audience_network'
+group 'com.dsi.easy_audience_network_plus'
 version '1.0-SNAPSHOT'
 
 buildscript {
@@ -23,8 +23,8 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 36
-    namespace 'com.dsi.easy_audience_network'
-    
+    namespace 'com.dsi.easy_audience_network_plus'
+
     defaultConfig {
         minSdkVersion 21
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
