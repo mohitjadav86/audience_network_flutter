@@ -1,7 +1,7 @@
 # audience_network
 ![Pub](https://img.shields.io/pub/v/audience_network.svg) ![GitHub](https://img.shields.io/github/license/dreamsoftin/facebook_audience_network.svg)
 
-Forked from https://pub.dev/packages/facebook_audience_network
+Forked from https://github.com/nooralibutt/audience_network_flutter
 - Added support for multiple Interstitial and Rewarded Ads
 - Added support for Rewarded Ads on iOS
 
